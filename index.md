@@ -36,14 +36,15 @@ You can check out more of my experiences and projects in my [Resume](RESUME_Suha
 
 In addition to programming, I love to express myself through the arts and music. Some of my favorite things to do include:
 
-- Dancing – I’ve been trained in Kathak, a classical Indian dance form.
-- Playing the Keyboard – I enjoy composing and covering music.
-- Listening to Music – It helps me relax and inspires creativity.
-- Meditation and staying mindful through movement and rhythm.
+1. Dancing – I’ve been trained in Kathak, a classical Indian dance form.
+2. Playing the Keyboard – I enjoy composing and covering music.
+3. Listening to Music – It helps me relax and inspires creativity.
+4. Meditation and staying mindful through movement and rhythm.
 
 ## Explore More
 
-- [Visit my LinkedIn Profile](https://linkedin.com/in/suhanisrivastava)
-- [Jump to Introduction](#introduction)
-- [Download my Resume](RESUME_Suhani.pdf)
+[x] [Visit my LinkedIn Profile](https://linkedin.com/in/suhanisrivastava)
+[x] [Jump to Introduction](#introduction)
+[x] [Download my Resume](RESUME_Suhani.pdf)
+[x] [Link to image](suhani-photo.jpeg)
 
