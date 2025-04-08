@@ -1,6 +1,6 @@
 # Suhani Srivastava
 
-![Suhani's Photo](./suhani-photo.jpg)
+![Suhani's Photo](suhani-photo.jpg)
 
 ## Introduction
 
