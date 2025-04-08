@@ -30,7 +30,7 @@ def detect_mask(image):
         return "No Mask"
 ```
 
-You can check out more of my experiences and projects in my [Resume](./RESUME_Suhani.pdf).
+You can check out more of my experiences and projects in my [Resume](RESUME_Suhani.pdf).
 
 ## Hobbies and Other Interests
 
@@ -45,5 +45,5 @@ In addition to programming, I love to express myself through the arts and music.
 
 - [Visit my LinkedIn Profile](https://linkedin.com/in/suhanisrivastava)
 - [Jump to Introduction](#introduction)
-- [Download my Resume](./RESUME_Suhani.pdf)
+- [Download my Resume](RESUME_Suhani.pdf)
 
