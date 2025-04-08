@@ -40,6 +40,7 @@ In addition to programming, I love to express myself through the arts and music.
 2. Playing the Keyboard – I enjoy composing and covering music.
 3. Listening to Music – It helps me relax and inspires creativity.
 4. Meditation and staying mindful through movement and rhythm.
+5. Singing
 
 ## Explore More
 
