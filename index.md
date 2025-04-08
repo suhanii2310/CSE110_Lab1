@@ -43,8 +43,8 @@ In addition to programming, I love to express myself through the arts and music.
 
 ## Explore More
 
-[x] [Visit my LinkedIn Profile](https://linkedin.com/in/suhanisrivastava)
-[x] [Jump to Introduction](#introduction)
-[x] [Download my Resume](RESUME_Suhani.pdf)
-[x] [Link to image](suhani-photo.jpeg)
+- [x] [Visit my LinkedIn Profile](https://linkedin.com/in/suhanisrivastava)
+- [x] [Jump to Introduction](#introduction)
+- [x] [Download my Resume](RESUME_Suhani.pdf)
+- [x] [Link to image](suhani-photo.jpeg)
 
